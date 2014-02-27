@@ -18,12 +18,6 @@ Ext.define('Caral.controller.controller_Setting', {
     //called when the Application is launched, remove if not needed
     launch: function() {
         console.log('--> Control Setting');
-        var _store = Ext.getStore('store_MainApp');
-        var _rec=_store._totalCount;
-        var _view=this.getRef_view_Setting();
-
-
-
     },
 
     FNC_Back: function() {

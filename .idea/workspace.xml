@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93e3ece7-38e6-4928-9b93-d3fa6a5b61a5" name="Default" comment="" />
+    <list default="true" id="93e3ece7-38e6-4928-9b93-d3fa6a5b61a5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controller/controller_Setting.js" afterPath="$PROJECT_DIR$/app/controller/controller_Setting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/store/store_MainApp.js" afterPath="$PROJECT_DIR$/app/store/store_MainApp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Caral.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,19 +37,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controller_MainApp.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="controller_MainApp.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controller/controller_MainApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="0" selection-start="2987" selection-end="2987" vertical-scroll-proportion="0.6023916" vertical-offset="1250" max-vertical-offset="2052">
+            <state line="87" column="0" selection-start="2987" selection-end="2987" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2052">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controller_Setting.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="controller_Setting.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controller/controller_Setting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="817">
+            <state line="20" column="0" selection-start="633" selection-end="633" vertical-scroll-proportion="0.52639294" vertical-offset="21" max-vertical-offset="703">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="store_MainApp.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/store/store_MainApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
               <folding />
             </state>
           </provider>
@@ -57,6 +71,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -67,12 +84,12 @@
         <option value="$PROJECT_DIR$/phonegap.local.properties" />
         <option value="$PROJECT_DIR$/app/model/model_MainApp.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/app/controller/controller_Setting.js" />
-        <option value="$PROJECT_DIR$/app/store/store_MainApp.js" />
         <option value="$PROJECT_DIR$/app/view/view_MainApp.js" />
         <option value="$PROJECT_DIR$/app/view/view_Setting.js" />
         <option value="$PROJECT_DIR$/app/view/view_Cal.js" />
         <option value="$PROJECT_DIR$/app/controller/controller_MainApp.js" />
+        <option value="$PROJECT_DIR$/app/store/store_MainApp.js" />
+        <option value="$PROJECT_DIR$/app/controller/controller_Setting.js" />
       </list>
     </option>
   </component>
@@ -81,7 +98,7 @@
     <option name="width" value="1440" />
     <option name="height" value="802" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -115,14 +132,6 @@
               <option name="myItemId" value="Caral" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass-stdlib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -145,24 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -181,42 +172,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Caral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/store_MainApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="9" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/view/view_Cal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="43" selection-start="529" selection-end="529" vertical-scroll-proportion="0.64171124" vertical-offset="1" max-vertical-offset="1539">
@@ -446,16 +394,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/controller_Setting.js">
+    <entry file="file://$PROJECT_DIR$/app/controller/controller_MainApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="817">
+        <state line="87" column="0" selection-start="2987" selection-end="2987" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2052">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/controller_MainApp.js">
+    <entry file="file://$PROJECT_DIR$/app/store/store_MainApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="0" selection-start="2987" selection-end="2987" vertical-scroll-proportion="0.6023916" vertical-offset="1250" max-vertical-offset="2052">
+        <state line="8" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/controller_Setting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="633" selection-end="633" vertical-scroll-proportion="0.52639294" vertical-offset="21" max-vertical-offset="703">
           <folding />
         </state>
       </provider>
